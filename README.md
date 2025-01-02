@@ -42,7 +42,6 @@ Repositori ini adalah implementasi dari tugas makalah IF2123 - Aljabar Linier da
 ## 🧑‍💻 Kontributor
 
 - **Benedict Presley**  
-  - [LinkedIn](https://www.linkedin.com/in/benedict-presley-b834ab29a/)  
-  - [Email](mailto:2presleybenedict04@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/benedict-presley-b834ab29a/)
 
 ---
