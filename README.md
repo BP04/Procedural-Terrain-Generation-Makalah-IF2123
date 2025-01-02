@@ -6,6 +6,8 @@
 
 Repositori ini adalah implementasi dari tugas makalah IF2123 - Aljabar Linier dan Geometri. Dalam makalah ini penulis mengimplementasikan *procedural terrain generation* dengan menggunakan konsep aljabar linier.
 
+![image](https://github.com/user-attachments/assets/3b4a4eb8-758c-43df-8620-21d5e23c4772)
+
 ---
 
 ## 🛠️ Teknologi yang Digunakan
